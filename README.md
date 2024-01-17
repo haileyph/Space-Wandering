@@ -25,7 +25,7 @@ Download the software [HERE](https://www.arduino.cc/en/software)
 
 [Adafruit VL53L0X Library](https://github.com/adafruit/Adafruit_VL53L0X)
 
-Arduino IDE code
+Paste and Run the Arduino IDE code below
 
 ```cpp
 #include "Adafruit_VL53L0X.h"
@@ -74,7 +74,7 @@ void loop() {
 
 ### Step 3: P5.JS
 
-Connect P5.JS to the serial port
+Connect P5.JS to the serial port in ```sketch.js```
 
 ```javascript
   //open our serial port -- CHANGE THE SERIAL PORT HERE
@@ -83,6 +83,8 @@ Connect P5.JS to the serial port
 
 ## Process Document
 Refer to my [process document](https://sheridanc-my.sharepoint.com/personal/phamhang_shernet_sheridancollege_ca/Documents/23%20Fall%20%F0%9F%8C%A4%EF%B8%8F/IxD%20Phy%20Comp/submit/HaileyPham_Project2.pdf?CT=1705426768912&OR=ItemsView) for more details.
+
+Demo images and videos [HERE](https://ixd552.phoenix.sheridanc.on.ca/Fall%2023/PhysComp/Module_2_WebTemplate/#Project1)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
