@@ -9,7 +9,7 @@ Space Wandering is a chasing game where users try to move their UFO away from th
 ## Setting Up
 ### Step 1: Hardware
 Set up the hardware and plug into Arduino Uno as the circuit diagram below:
-![alt text]()
+![alt text](https://github.com/haileyph/Space-Wandering/blob/main/assets/circuit.png?raw=true)
 
 Hardware used in the circuit:
 - [Arduino Uno](https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us)
