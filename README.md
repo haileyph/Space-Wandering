@@ -1,6 +1,6 @@
 # Space Wandering
 ## Description
-View the live website [HERE]().
+View the live website [HERE](https://haileyph.github.io/Space-Wandering/).
 
 This project is a comination of building Arduino hardware interaction and connecting with P5.JS front-end library.
 
